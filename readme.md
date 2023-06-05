@@ -1,6 +1,7 @@
 # Good Tape Python & DevOps Code Test
 ### Introduction
 Welcome to the Good Tape code test. This test is divided into two tasks related to Python development and DevOps. The main goal is to assess your coding skills in Python and your understanding of DevOps concepts like setting up APIs and handling large files.
+
 The context for this test revolves around audio processing, which is a key part of Good Tape's work as an audio transcription service using OpenAI's Whisper.
 
 ### Task 1: Python Flask API for Audio Conversion
@@ -11,10 +12,12 @@ Make sure your solution covers these points:
 2. The API is capable of converting the audio file to the desired format.
 3. Users can download the converted audio files.
 4. Add appropriate error handling (e.g., invalid file format, incorrect file path).
+5. 
 You may use any Python libraries you see fit to accomplish this task.
 
 ### Task 2: DevOps Task - Dockerization
 For this task, you are to containerize the API developed in Task 1 using Docker.
+
 Ensure that the API can be spun up quickly using a Docker command, and include in your readme.md the exact command to be used for this.
 
 ### Submission
