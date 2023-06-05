@@ -4,8 +4,8 @@ Welcome to the Good Tape code test. This test is divided into two tasks related 
 
 The context for this test revolves around audio processing, which is a key part of Good Tape's work as an audio transcription service using OpenAI's Whisper.
 
-### Task 1: Python Flask API for Audio Conversion
-In this task, you are expected to create a simple Flask API that allows users to upload audio files, convert them to a specified format (for instance, from .wav to .mp3), and download the converted file. You should implement this using Python, and the input/output should be handled using HTTP requests.
+### Task 1: Python API for Audio Conversion
+In this task, you are expected to create a simple API that allows users to upload audio files, convert them to a specified format (for instance, from .wav to .mp3), and download the converted file. You should implement this using Python, and the input/output should be handled using HTTP requests.
 
 Make sure your solution covers these points:
 1. Users can upload their audio files.
